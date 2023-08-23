@@ -1,0 +1,80 @@
+/**
+ * Override any styles here that you want to change (optional)...
+ */
+ 
+  .container {
+    max-width: 2040px;
+    max-height: 800px;
+  }
+
+  body {
+    text-align: center;
+  }
+  
+  
+  h1 {
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  #category-menu {
+    text-align: center;
+  }
+  
+  #category-menu button {
+    display: inline-block;
+    padding: 10px
+    
+  }
+  
+  table {
+    width: 100%;
+    text-align: center;
+  }
+  
+  th,
+  td {
+    text-align: left;
+  }
+  
+  
+  header {
+    text-align: center;
+    color: white;
+  }
+ 
+  #category {
+    color:blue
+  }
+
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f8f8;
+    padding: 0px;
+    text-align: center;
+  }
+
+  table {
+    width: 100%;
+    color: white;
+  }
+  th,
+  td {
+    width: 33.33%;
+    text-align: center;
+  }
+ 
+  button {
+    background-color: blue;
+    color: white;
+  }
+  
+  th {
+    color:red
+  }
